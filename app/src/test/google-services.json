@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "914344673287",
+    "firebase_url": "https://registrationwithgallery.firebaseio.com",
+    "project_id": "registrationwithgallery",
+    "storage_bucket": "registrationwithgallery.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:914344673287:android:146b3d7113d4eddd",
+        "android_client_info": {
+          "package_name": "com.usf.registrationwithgallery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "914344673287-ctou7vhiuii3a7u9u2rnqe73p9plbrvg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8ZcykVR_Vm0203kEYoUhNs3GSVJG_L-8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
